@@ -3,6 +3,9 @@
 This is a demonstration of how to use the RoaringBitmap library from a
 GitHub package.
 
+- [Maven](#maven)
+- [Gradle](#gradle)
+
 
 ## Maven
 
